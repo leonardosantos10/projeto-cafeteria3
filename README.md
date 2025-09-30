@@ -7,7 +7,7 @@
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Js-logo"/>
 
 
-<img src= ""/>
+<img src= "https://github.com/leonardosantos10/projeto-cafeteria3/blob/main/img/img-desktop1.png?raw=true"/>
 <br>
 <img src= ""/>
 <br>
