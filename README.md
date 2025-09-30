@@ -15,4 +15,4 @@
 <br>
 <img src= "https://github.com/leonardosantos10/projeto-cafeteria3/blob/main/img/img-desktop-4.png?raw=true"/>
 <br>
-<img src= ""/>
+<img src= "https://github.com/leonardosantos10/projeto-cafeteria3/blob/main/img/img-desktop-5.png?raw=true"/>
