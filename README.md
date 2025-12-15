@@ -2,7 +2,7 @@
 
 <h3> 🚀 Criei um projeto pessoal chamado Code Café, um projeto front-end completo que simula a presença digital de uma cafeteria moderna.
 
-Estruturei a interface com HTML5 e CSS3, aplicando AOS (Animate On Scroll) para transições suaves e um maior valor visual.
+Estruturei a interface com HTML5 e CSS3, aplicando AOS (Animate On Scroll) para transições suaves e um maior valor visual e Javascript.
 
 Foquei na experiência do usuário, organizando seções como menu, avaliações e localização via Google Maps.
 
