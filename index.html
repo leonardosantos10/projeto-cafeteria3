@@ -24,27 +24,28 @@
             </a>
 
             <nav class="navbar">
-                <a href="#">Home</a>
+                <a href="#home">Home</a>
                 <a href="#about">Sobre</a>
                 <a href="#menu">Menu</a>
                 <a href="#review">Avaliações</a>
                 <a href="#address">Endereço</a>
             </nav>
 
-            <div class="icons">
+  <div class="icons">
+         <div id="menu-btn" class="fas fa-bars">
+         <img width="30" height="30" src="https://img.icons8.com/ios-filled/30/ffffff/menu--v1.png" alt="menu--v1" />
+         </div> 
+        <img width="30" height="30" src="https://img.icons8.com/ios-filled/30/ffffff/search--v2.png"
+        alt="search--v2" />
 
-                <img width="30" height="30" src="https://img.icons8.com/ios-filled/30/ffffff/search--v2.png"
-                    alt="search--v2" />
-
-                <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/ffffff/shopping-cart--v1.png"
-                    alt="shopping-cart--v1" />
-            </div>
-
+        <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/ffffff/shopping-cart--v1.png"
+        alt="shopping-cart--v1" />
+</div>
         </section>
     </header>
 
     <div class="home-container">
-        <section id="#home">
+        <section id="home">
 
             <div class="content">
 
@@ -201,10 +202,28 @@
     </section>
 
  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-  <script>
-  AOS.init({
-     duration: 1200
-  });
+<script>
+    AOS.init({
+        duration: 1200
+    });
+
+    const menuBtn = document.querySelector('#menu-btn');
+    const navbar = document.querySelector('.navbar');
+
+  
+    menuBtn.onclick = () => {
+        navbar.classList.toggle('active');
+       
+        window.onscroll = () => {
+             navbar.classList.remove('active');
+        };
+    };
+
+    document.querySelectorAll('.navbar a').forEach(link => {
+        link.onclick = () => {
+            navbar.classList.remove('active');
+        };
+    });
 </script>
 
 </body>
