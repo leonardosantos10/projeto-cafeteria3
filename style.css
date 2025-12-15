@@ -104,7 +104,7 @@ section {
 .home-container {
     background: url("./img/home-img.jpg") no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
 }
 
 .home-container section {
