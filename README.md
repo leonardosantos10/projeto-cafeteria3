@@ -1,14 +1,6 @@
-<h1>Projeto Página de uma cafeteria </h1>
+<h1>Desenvolvi esse projeto Pessoal de uma Página de Cafeteria</h1>
 
-<h3> 🚀 Criei um projeto pessoal chamado Code Café, um projeto front-end completo que simula a presença digital de uma cafeteria moderna.
-
-Estruturei a interface com HTML5 e CSS3, aplicando AOS (Animate On Scroll) para transições suaves e um maior valor visual e Javascript.
-
-Foquei na experiência do usuário, organizando seções como menu, avaliações e localização via Google Maps.
-
-Esse projeto reforça meu domínio na criação de interfaces web, com atenção aos detalhes visuais e funcionais.
-
-Utilizei as seguintes tecnologias: </h3>
+<h3>🚀 O Code Café é um website responsivo completo para uma cafeteria moderna. Desenvolvido com HTML5, CSS3 e JavaScript, ele apresenta a marca, o menu de produtos e as avaliações de clientes em um elegante tema escuro. Utiliza design adaptativo (mobile-first), tipografia personalizada e a biblioteca AOS para animações de rolagem, garantindo uma ótima experiência de usuário em qualquer dispositivo.</h3>
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html-logo"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css-logo"/>
